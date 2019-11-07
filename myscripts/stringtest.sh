@@ -6,8 +6,11 @@
 #Owner: Lakshmi Narayana <lakshminarayana@mycompany.com>
 #version: 1.0
 #######################################
-#print a message
-echo 'Welcome to Shell Scripting'
-sleep 10
-#print end message
-echo 'End'
+#Purpose to test string test 
+#check the status if you are root user
+RUNUSER=`/usr/bin/whoami`
+if [ "RUNUSER"=='root' ];then
+echo 'yes you are the Root user'
+else
+echo "you are the $RUNUSER"
+fi
