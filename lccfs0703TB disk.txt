@@ -1,0 +1,7 @@
+[LCC-G10-DS-Tier2] lccfs070/lccfs070_1.vmdk - 2 TB
+
+
+
+
+[LCC-G10-DS-Tier4a] lccfs070/lccfs070.vmdk- 3 TB
+

@@ -1,0 +1,151 @@
+INC0342580 Lee Baggett issue
+
+$LiveCred = Get-Credential
+
+$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $Credential -Authentication Basic -AllowRedirection 
+$importresults = Import-PSSession $Session
+
+
+Default Local Admin Password
+
+Administrator 
+
+&Eq0MBq$OF8fT64
+
+
+Remove-CalendarEvents -Identity chris@contoso.com -CancelOrganizedMeetings
+
+Get-DistributionGroupMember -Identity "CORP GEN Bldg 5B Rm002 Editor"
+
+UNIX Components uninstall in w2016 server
+Dism.exe /online /enable-feature /featurename:adminui /all
+Dism.exe /online /disable-feature /featurename:adminui
+
+
+lccas274
+lccns274 jet admin sever
+
+
+Import-PSSession $ExchangeSession -DisableNameChecking
+
+
+Installing .net3.5 
+
+dism /online /enable-feature /featurename:netfx3serverfeatures 
+
+Get-MessageTrace -StartDate (Get-Date).Adddays(-30) -EndDate (Get-Date) -SenderAddress  parkcities@pinotspalette.com
+
+
+Adding DL memebership
+
+https://armstrong.service-now.com/kb_view_customer.do?sysparm_article=KB0017275
+
+
+Import-CSV c:\sun\macon.csv | ForEach {Add-DistributionGroupMember -Identity "maconnc" -Member $_.Name}
+
+MFA SETUP
+
+aka.ms/mfasetup
+
+http://aka.ms/exopspreview   
+
+Connect-IPPSSession
+
+User Name: ia-lnneelam@plasterform.com
+Temporary Password: Gaf50887 
+
+SharePoint Access 
+
+awi\svclccmossfarmadmin
+wmcyKkKTi3NdjUsC3xrd
+
+AZURE Access Local Admin
+
+awiprivileged
+
+D835Xe4xPAmy!
+
+DISM /Online /Enable-Feature /FeatureName:NetFx3 /All /LimitAccess /Source:F:\sources\sxs
+
+
+
+CMD to get Hotfixes
+
+Get-Hotfix –cn SEA-SRV-01 | Select HotfixID, Description, InstalledOn | sort InstalledOn
+
+
+
+Purge emails from users mailbox
+
+$UserCredential = Get-Credential
+$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://ps.compliance.protection.outlook.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection
+Import-PSSession $Session
+*******************************************
+New-ComplianceSearchAction -SearchName "RuleName" -Purge -PurgeType SoftDelete
+
+Get-ComplianceSearchAction
+
+
+
+stsadm -o deletesite -url http://inside-americas.armstrong.com:4175/personal/username
+
+SharePoint search issue Doc
+
+https://armstrongceilings.sharepoint.com/:w:/s/Ai2S/CCA/EVIVZz8IILBCjzQf4zpmDokBevZZMb3mPoMLb-QqZH7plw?e=8ER8nn
+
+
+
+SHarepoint Link access
+
+https://armstrongceilings-my.sharepoint.com/personal/DAgnelli_armstrongceilings_com/
+
+
+Delete(6/29/2018),Disabled(12/31/2017),LastLogon(4/7/2017) per SR at:LDAP://CN=Ramdas Chattar,OU=Users,OU=External Off-site Vendor,OU=External,DC=americas,DC=armstrong,DC=com
+
+
+
+
+$importresults = Import-PSSession $Session$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $Credential -Authentication Basic -AllowRedirection
+Import-PSSession $ExchangeSession -DisableNameChecking
+
+
+To check the disconnected mailbox status
+https://community.spiceworks.com/how_to/122196-so-you-need-to-recover-a-soft-deleted-disconnected-mailbox-merged-to-another-user-on-exchange-online
+
+
+CMD to get servers in the domain
+
+Get-ADComputer -Filter { OperatingSystem -Like '*Windows Server*' } -Properties OperatingSystem| Select Name, OperatingSystem | Format-Table -AutoSize
+
+
+TO check the mailboxes in all database wiht count
+
+Get-MailboxDatabase | foreach{($_.name) + ‘=’+ (Get-Mailbox -Resultsize unlimited -Database $_.Identity ).count + ‘ Mailboxes’}
+
+
+New-MailContact -ExternalEmailAddress 'SMTP:ALGrove@armstrongceilings.mail.onmicrosoft.com' -Name 'Amber L. Grove' -DisplayName 'Amber L. Grove' -Alias 'ALGrove' -PrimarySmtpAddress  'ALGrove@armstrongceilings.com' -OrganizationalUnit 'americas.armstrong.com/Domino Contacts/'
+
+Actuivating Windows 
+
+DISM /online /Set-Edition:ServerDatacenter /ProductKey:W3GGN-FT8W3-Y4M27-J84CP-Q3VJ9 /AcceptEula
+
+
+https://armstrong.service-now.com/kb_view_customer.do?sysparm_article=KB0017804 
+https://armstrong.service-now.com/kb_view_customer.do?sysparm_article=KB0017805
+
+
+
+Set-CalendarProcessing -Identity lcc-rm-036 -AutomateProcessing AutoAccept -AllowRecurringMeetings:$true -ConflictPercentageAllowed 25 -MaximumConflictInstances 1 -AllowConflicts:$true
+
+Search-Mailbox –identity myakimov@armstrongceilings.com –SearchQuery kind:meetings –DeleteContent
+
+AuditPol.exe /get  /subcategory:"MPSSVC Rule-Level Policy Change"
+
+
+VSS Storage VOl INfo
+vssadmin list shadowstorage
+
+vssadmin resize shadowstorage /on=e: /for=e: /maxsize=100GB
+
+PS C:\windows\system32> Get-MailboxFolderStatistics -Identity techline@armstrongceilings.com  | Where-Object {$_.Name -e
+q "DiscoveryHolds"} | ft name,FolderAndSubfolderSize,ItemsInFolderAndSubfolders

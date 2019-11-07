@@ -1,0 +1,35 @@
+https://armstrongceilings.sharepoint.com/sites/ukhrdocuments/shareddocuments/forms/allitems.aspx
+
+
+http://inside-europe.armstrong.com/abpe/abpease/productinformation/forms/allitems.aspx
+
+http://inside-europe.armstrong.com/ABPE/ABPEASE/Product%20Information/Forms/AllItems.aspx
+
+ABP-WU:
+-Elisa Rushing shows in O365 but not OnPremABPCFS:
+-Brian Sheer
+
+>CASHAPP:
+Carrie
+hang on, i hit enter to fast
+Elisa Rushing needs to be in ABP-WU
+Brian Sheer needs to be in ABPCFS
+Carrie Bender needs to be in CASHAPP
+Angela J Allgyer was adding them through Outlook, it appears. Is that incorrect? The changes didn't appear to have synced across OnPrem to O365. also, when I manually updated Carrie to the CASHAPP group, she still didn't get any emails sent to that group
+
+
+
+Carrie L Bender 6291456 msExchCalendarLoggingQuota
+
+msExchDumpsterQuota 31457280
+
+
+GENLCCCMRFrance    ABPEGENMRFRANCEEditor 
+Set WshNetwork = CreateObject("WScript.Network")
+
+WshNetwork.AddWindowsPrinterConnection "\\Printserver\Printername"
+
+
+
+NPI13A25D
+

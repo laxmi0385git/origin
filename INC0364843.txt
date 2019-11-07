@@ -1,0 +1,133 @@
+Received: from SN1NAM04FT015.eop-NAM04.prod.protection.outlook.com
+ (10.152.88.53) by SN1NAM04HT165.eop-NAM04.prod.protection.outlook.com
+ (10.152.89.146) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id 15.20.1339.10; Tue, 27 Nov
+ 2018 19:03:34 +0000
+Received: from NAM02-CY1-obe.outbound.protection.outlook.com (207.46.163.55)
+ by SN1NAM04FT015.mail.protection.outlook.com (10.152.88.145) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id
+ 15.20.1339.10 via Frontend Transport; Tue, 27 Nov 2018 19:03:34 +0000
+Received: from MWHPR17CA0077.namprd17.prod.outlook.com (2603:10b6:300:c2::15)
+ by DM5PR17MB1226.namprd17.prod.outlook.com (2603:10b6:3:8c::16) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.1361.16; Tue, 27 Nov
+ 2018 19:03:30 +0000
+Received: from BN3NAM04FT005.eop-NAM04.prod.protection.outlook.com
+ (2a01:111:f400:7e4e::209) by MWHPR17CA0077.outlook.office365.com
+ (2603:10b6:300:c2::15) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id 15.20.1361.15 via Frontend
+ Transport; Tue, 27 Nov 2018 19:03:30 +0000
+Authentication-Results: spf=pass (sender IP is 50.115.95.238)
+ smtp.mailfrom=acadiadrywall.com; armstrongceilings.com; dkim=none (message
+ not signed) header.d=none;armstrongceilings.com; dmarc=bestguesspass
+ action=none header.from=acadiadrywall.com;compauth=pass reason=109
+Received-SPF: Pass (protection.outlook.com: domain of acadiadrywall.com
+ designates 50.115.95.238 as permitted sender)
+ receiver=protection.outlook.com; client-ip=50.115.95.238;
+ helo=omta13.toronto.rmgopenwave.com;
+Received: from omta13.toronto.rmgopenwave.com (50.115.95.238) by
+ BN3NAM04FT005.mail.protection.outlook.com (10.152.92.108) with Microsoft SMTP
+ Server id 15.20.1339.10 via Frontend Transport; Tue, 27 Nov 2018 19:03:28
+ +0000
+Received: from tr2spm10.toronto.rmgopenwave.com ([156.34.122.90])
+          by tr2mta06.toronto.rmgopenwave.com
+          (InterMail vM.8.04.03.25 201-2389-100-178-20160115) with ESMTP
+          id <20181127190328.KRFO15080.tr2mta06.toronto.rmgopenwave.com@tr2spm10.toronto.rmgopenwave.com>;
+          Tue, 27 Nov 2018 14:03:28 -0500
+Received: from DESKTOP6N2QMSL ([156.34.122.90])
+          by tr2spm10.toronto.rmgopenwave.com with ESMTP
+          id <20181127190326.CVFW3125.tr2spm10.toronto.rmgopenwave.com@DESKTOP6N2QMSL>;
+          Tue, 27 Nov 2018 14:03:26 -0500
+From: <sherifsoliman@acadiadrywall.com>
+To: 'Chantal Wolff' <cwolff@armstrongceilings.com>
+CC: 'France Couillard' <FCouillard@armstrongceilings.com>
+References: <00d101d4865f$f9a0ff40$ece2fdc0$@acadiadrywall.com>
+  <BN6PR17MB122047B11BED8ACE8EBBF44AC9D00@BN6PR17MB1220.namprd17.prod.outlook.com>
+ <00da01d48660$5bd38c00$137aa400$@acadiadrywall.com>
+ <BN6PR17MB12207350744C3FB42D95D3C0C9D00@BN6PR17MB1220.namprd17.prod.outlook.com>
+  <BN6PR17MB104465BF7E180EE0DCFC3F24DFD00@BN6PR17MB1044.namprd17.prod.outlook.com>
+ <010501d48662$d15da800$7418f800$@acadiadrywall.com>
+  <BN6PR17MB10443AB932087B8DF6CE09BFDFD00@BN6PR17MB1044.namprd17.prod.outlook.com>
+  <003201d48669$99fbefa0$cdf3cee0$@acadiadrywall.com>
+ <BN6PR17MB12200BF9B4628B15DFA83F9AC9D00@BN6PR17MB1220.namprd17.prod.outlook.com>
+  <BN6PR17MB1044C3D9C06219816EA8E97EDFD00@BN6PR17MB1044.namprd17.prod.outlook.com>
+   <003801d48676$e62515c0$b26f4140$@acadiadrywall.com>
+ <BN6PR17MB1220A954F60687840F56E6BDC9D00@BN6PR17MB1220.namprd17.prod.outlook.com>
+  <BN6PR17MB1044676DED6478EA3C6FD25DDFD00@BN6PR17MB1044.namprd17.prod.outlook.com>
+ <006601d4867d$e178c790$a46a56b0$@acadiadrywall.com>
+  <BN6PR17MB104431CD2B4B01174B70C
+	AD8DFD00@BN6PR17MB1044.namprd17.prod.outlook.com>
+In-Reply-To: <BN6PR17MB104431CD2B4B01174B70CAD8DFD00@BN6PR17MB1044.namprd17.prod.outlook.com>
+Subject: RE: 1010422886
+Date: Tue, 27 Nov 2018 15:03:25 -0400
+Message-ID: <008b01d48683$e0331970$a0994c50$@acadiadrywall.com>
+MIME-Version: 1.0
+Content-Type: text/plain
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQIsjSQyg4iKUfl+sbeY7LlAy7OStgLGjXrCAhnIGLsBrflrewGoWXT6AfBKqT0CjDoFYQFeu2pZAmeDpCsCfhExPwFBD1ecAhsrLyEC5hYdCwIZ+9qOAq5gPbSjw9uhMA==
+Content-Language: en-ca
+X-Authentication-Info: Submitted using SMTP AUTH LOGIN at tr2spm10.toronto.rmgopenwave.com from [156.34.122.90] using ID sherifsoliman@acadiadrywall.com at Tue, 27 Nov 2018 14:03:26 -0500
+X-Cloudmark-Analysis: v=2.2 cv=eYnSR/MH c=1 sm=0 tr=0
+ a=JAZIK17kVzTxMMcfE0Ka4A==:17 a=AREiwxXqfxkA:10 a=JHtHm7312UAA:10
+ a=DAwyPP_o2Byb1YXLmDAA:9 a=Ge-EwcFSAAAA:8 a=CNM9SpPTAAAA:8 a=9PtqttmeAAAA:8
+ a=z6QrHGydRnO3fo5mW2wA:9 a=ZnsWDr0UN5JD2xni:21 a=V_lr0Wo5w9RUcDRd:21
+ a=CjuIK1q_8ugA:10 a=xal2c2S_5XkA:10 a=u7W0EihABfkA:10 a=2f2sHPBVbBkA:10
+ a=szBvFoFubIEA:10 a=nWbk0sN8fv8A:10 a=8bzDluiwQEwA:10 a=yMhMjlubAAAA:8
+ a=SSmOFEACAAAA:8 a=ISUGoApG-a9r_3O811gA:9 a=qZ4Vg_8Y7AZrgVam:21
+ a=Ggiml39nLA4L4Gtp:21 a=HuwbbvylJWfxxYJk:21 a=gKO2Hq4RSVkA:10
+ a=UiCQ7L4-1S4A:10 a=hTZeC7Yk6K0A:10 a=frz4AuCg-hUA:10
+ a=SMn_uQu4cL1UD1iw6EMA:9 a=OIdo85ZwVRveDX-J:18 a=HXjIzolwW10A:10
+ a=T6a71-JsGAwA:10 a=TCmaf4YnXnKO4Cn7xIUA:9 a=OqZLnVlOQYGB3Dxl:18
+ a=AHrLIVbqUX4UW4bbf-QA:9 a=qEzCZ13Zn9oPTa4CGTQA:9 a=pVEd6mwCQU2wHL3F:18
+ a=wGFODrD5fpXjn-XIw30A:9 a=sKz7G0ABP_TYnCbN1v8A:9 a=h6PmQRSPErSrgxkk:18
+ a=V3MkH89wqfJd-QcE6mMA:9 a=Mkm22BJiVIuS1UHu:18 a=ULBpNYU4vfJBxtMsdoQA:9
+ a=6XHtaH7KKQHJDsow:18 a=w_bvsV9zi3xMfXEUxAlf:22 a=Nsj0kyPwRbxx9fna50iS:22
+ a=OT67X2xgVBaOtv-zrdn7:22
+Return-Path: sherifsoliman@acadiadrywall.com
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 5b00abe1-105d-47d0-ab18-b84d5ea65f29:0
+X-Forefront-Antispam-Report: CIP:50.115.95.238;IPV:NLI;CTRY:US;EFV:NLI;SFV:SPM;SFS:(8156002)(31620200002)(3000300001)(438002)(359002)(286005)(558000001)(199004)(252514010)(189003)(349012);DIR:INB;SFP:;SCL:9;SRVR:DM5PR17MB1226;H:omta13.toronto.rmgopenwave.com;FPR:;SPF:Pass;LANG:en;PTR:omta13.toronto.rmgopenwave.com;A:1;MX:1;CAT:BULK;
+X-Microsoft-Exchange-Diagnostics: 1;BN3NAM04FT005;1:Sh2adUYXTI5BUekrBVthcC84Mavs45Nd+hrZNnaLL8GvnnIfMQBRMVW6OlIoDDWAe5Mzelk+CSbF05vD4D2S4GkJvvc3psNiXn7eC2K/4KrluAGAaZiyQY2enxU9AZfl
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: b584420f-5428-4ff7-47ff-08d6549b041e
+X-Microsoft-Antispam: BCL:6;PCL:0;RULEID:(2390098)(7020095)(4652040)(5600074)(711020)(4605076)(4608076)(49563074)(1401299)(1421009)(1414027)(71702078);SRVR:DM5PR17MB1226;
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR17MB1226;3:JsbWxAhAqkCe0DAzb9jOSsFxLC4rFr4JkQNbZ0/rwHHG8u6lRB9LSnH4nYMQ7Tw542zthN8bQcmph3JumXQLGmzZIDw/hyeqRPIz3DZC9v3prx6Yae4y5/XgP5vxv8bZELEF43HeEfrqTjqX4Iv/uLhmOnizSWpzlKi5eyxkNfJd/m0UQf98Wzi+uTi7onUe8ijiwQpVfPu3pTsDEE2yM1B3cbpQYLKbI6yeq5EWoDQ4KtHsgsfpOUc38bN638gS5DPxb35giZkoNYRXJGttPp4sdGSeut3QJ8EqhJRfPujWRbBB6G2uY2b4Nmhbn7HLcjCZ7I9+Kqk7aruFeQTXClCSc2DF6gxlDy1MZlROvSo=;25:JDcUOGiBjZWTJXF6OQMX9beW1ZROhxzwbD7jWH7f/wmQrltT9W6V2F2uKu7CVaU6M0vjI2YEiAal37nFQ9ODytANZnglX0FU0gDxyKKRpuJdt074PfpTK6mdyJU6H+YVI3mm674Dty07AeIEpuuw/Kwi0L5Apn8ysULgyJCLEpxSNTFxEoX9WBd/qfmY5Rl3B0oyIVBDPfF00Dl85sQ2OY5o6EpAbOdwOE3WrgJyY4AUWCEDQnVGF++YN83bMUamksN1zLqY6itOGtR2e/EtyBD4LjyzvJA83kckHWaWLTrkvkUIuVkyxZR2Uyq+20w9TwID3oQwCSF2IKjC2I1GeQ==
+X-MS-TrafficTypeDiagnostic: DM5PR17MB1226:
+SN1NAM04HT165:
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR17MB1226;31:NAdUEab1bx5UocPKxgEY2G6a44xCl2returF0ndSGOEMv2LyWCzvHyE2wGqsjSn/0XUWJ1PTPvormrSWHZo756qTViFe5Cssuga3gifsFe8SIgRPhM26u9FRwJZppfQNw6Z83pZ996YGmvuLtUasARdV+QALfw10y8xctPp7rogK1qab/PrfVtZvL/mBOnJj3XrlA5/EAnA0m1IH3yqDWtq3HxE042okM5YJ+4HBOI0=;20:Ncqu0p4+du8goQ4lARaAi1uSAJfK2wOqKlgSih6XGSbTalOZwCV9ToXsRAWpCRradcM5mdHw+Spz4W0mn6Log70P0XGw0R+83V7Ju2uffO+P5JwHJmHnyfXKcw06/eHpPY0pnwZ+A+dIna0C1Hig5Y0Rv2QFD//kj0K3igIwITjcOmZ8alxlu6i1DP4BMZnwIatY1Xvfdvx0Wh57QOOIdLifXOiD718Z0slBGytUsx0pFrKU91zZuqhv3ZzFW2fU2DDNJh7uu5qTop0FFooBQWB1bdYK89LeP/Ts35b4v1I7jVMMwSuUxktf5BBdwnr1P43s+1DjqMQWpcp5Qi9qLHvsiWJ36K/yZPjs5ylOZ5+I89jyKI9IWzMxqiuuE43l+Ohl2mHrA1Fwo5Tx2CLYi71fZC4UYkBZQcmesOxEFZS8/fXSxpqGgIch/pCS6Mz37rhG+l1PKR7aTpKX/rGqwmMG6B+i4pKP0c3bFyCQPGZnzeRmdRoS6J1AIlva4NZO
+X-Exchange-Antispam-Report-CFA-Test: BCL:6;PCL:0;RULEID:(102415395)(2018062399030)(2018011200283)(2401047)(701105)(8121501046)(52410047)(2018011210174)(2018011211064)(2018011212028)(2018011213028)(2018011214028)(2018011215028)(2018011216028)(2018011217028)(2018011218028)(2018011219092)(2018011220252)(2018011221063)(2018011222027)(2018011223027)(2018011224027)(2018011225035)(2018011229035)(2018011232269)(2018011233052)(2018021202149)(98810176)(2018021203149)(98815176)(823301158)(823300264)(823311075)(9101536074)(10201501046)(3002001)(93006095)(93004095)(3231443)(901025)(902075)(913088)(7045084)(10273014)(1430557)(1431068)(1432190)(1459058)(1631060)(9311033)(944501410)(9300000249)(9301004277)(4983020)(4982022)(52103095)(52105112)(52106170)(52408095)(98821027)(98822027)(52401380)(52505095)(52406095)(52305095)(52206095)(88860335)(1102011)(1610001)(8301001075)(8301003183)(148016)(201708071742011)(7699051)(76991095);SRVR:DM5PR17MB1226;BCL:6;PCL:0;RULEID:;SRVR:DM5PR17MB1226;
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR17MB1226;4:CS8D4Qu06sixF7tOa4PWzHURJRvY7QmZG/DJtUYKtYgFCrtY7etTm4v8B4EaPfcCd7h1E+c8r4zggORSBOUqwV3uIMxxCxHI2wm2tRAmg3x1Z7zsLwyWhmx6FH2TwEOTUOzn1XWA3C9jw8qDWeS+KEGvzQKexf0SjuYbhYwjrR+3ZHOEpg8ZlWT2Y8ckDwoiutp5ugvIhApHzC6TnCx/thXUlVLNSu4399GcjdswZLePpTbl+D7k29PjR7lkz1NFZIoQk/k4ahwvl06DsAJ2iw==;23:w3LFlSrI0km0va9HpugpTiWaoQsCvkKxo8jLMR508GpiDSNAPUI6wFTduAALSf+tODQYtysXmETZJ6RaFqoirGYSPKbIKvzS4in5SI2z3DftoexQi3hrPNvHl4Si//DQDjge9hnFRfahSMR9KZxqBm8ryQ7O4cKiXmhaSfxp5ZnQ0xO7+Hb7RZDez2tIYpkiq3QYSPy+zOgw2XQQwpTyn8Hkxwnz1E6ZQzZpm6gr8+01QBBjJu8WftdsvlE06k2r9vnsH0r1BGm7ghHOrHNSdbD7inAdEO12X9FGzDMdeTmj1Y7pJxvX/soYO/n5bjyvmzDUQGljjbAkX9mOLwmhu4qr7Mjr5d0HjT9kmDfW5riGBHcH3WYjT04wfut5je8l3T0efD8vGJg0WyxRhsFRIw==
+X-CustomSpam: Bulk Mail 
+ Bulk Mail
+X-Original-X-Forefront-Antispam-Report: CIP:50.115.95.238;IPV:NLI;CTRY:US;EFV:NLI;SFV:SPM;SFS:(8156002)(31620200002)(3000300001)(438002)(359002)(286005)(558000001)(199004)(252514010)(189003)(349012);DIR:INB;SFP:;SCL:9;SRVR:DM5PR17MB1226;H:omta13.toronto.rmgopenwave.com;FPR:;SPF:Pass;LANG:en;PTR:omta13.toronto.rmgopenwave.com;A:1;MX:1;
+X-Original-X-Microsoft-Antispam: BCL:6;PCL:0;RULEID:(2390098)(7020095)(4652040)(5600074)(711020)(4605076)(4608076)(49563074)(1401299)(1421009)(1414027)(71702078);SRVR:DM5PR17MB1226;
+X-Original-X-MS-Exchange-Organization-Network-Message-Id: b584420f-5428-4ff7-47ff-08d6549b041e
+X-Microsoft-Antispam-Message-Info: =?us-ascii?Q?UbSOtz6xRhBUawhMmAgriBwBnb0E1Fn2LRl4xX/nFzbKpzrC95CQs03B1KLF?=
+ =?us-ascii?Q?zH7lV/Zb1Bpr0KStikDo3XZqcpuRy3F4bsifrl8qXzptb1VkZPpcpaDRY/xN?=
+ =?us-ascii?Q?Nd0FwIxnjaoNAEGjijeu+wxl9aIv6zupav7qj1qjuhdm3y+w1bi14a5mUbW7?=
+ =?us-ascii?Q?sCZg7S2eCyCEHvlwnRn+qp+PkiWoYLLmmojHB0sCQ7Kr8grDQVIsJjCjy0uS?=
+ =?us-ascii?Q?M7BelGognbXG0Aw0p75yTqTQlW2O4cNglBZ43BlWyLnqdX3Cso5BFW4vZgD9?=
+ =?us-ascii?Q?a5J2pBIN4ZTZozOWBvtwJzmr40BUunM8yd8tONbAigmkljedG0G4wjl3y7h7?=
+ =?us-ascii?Q?3J93GvUeZ+MRewq9hzMPuDrU2/RUOvXXeyaoexP02NaGXClROhGsuMpEAvKd?=
+ =?us-ascii?Q?MLZV8aanmS9SW88Q39u9nSyYlG8uJDp2H098BMxZmnE0E22K8A2ecJfRURZU?=
+ =?us-ascii?Q?lwHWgOmzndYzUUYWnC1JsjfhAni2IDT+jZQxVpDmJZR6eZanhwRq19EbFOPF?=
+ =?us-ascii?Q?hD+VEtUo/wDeUB6T4eMBAjENOcPDyNny6wkN+cLk0Kylyk5cf6t+OjcrMOMM?=
+ =?us-ascii?Q?MfjG9tNbyi7ymWdG0Na0cflQkFD0BIqeoW7IW2zBQFC9GBHG7nBZbVY7uvT7?=
+ =?us-ascii?Q?/uMKP9YZLdXER5qXrYACEjRHbzrAbEe1Fr4+J0juYbgAv13YzXqkQG6NQBcl?=
+ =?us-ascii?Q?UKDnoTaJMUcdWZQr07vV0rlVIZzrnDiaiNbZQWCuUHbyEs9Nn4mYWbwZTmZr?=
+ =?us-ascii?Q?ygmwYb2B0NQCDpqmMZ5wyJNOI8YgYHvKVcdikYcZms8u0Vdm6Uz5VNqd661P?=
+ =?us-ascii?Q?40tRIeShy9eDsPQoeu/bBnqtHV7dxN6owW/q5op2siJF/U1Uasv1hOExRTSa?=
+ =?us-ascii?Q?V+ZtPsVLLu/WisITWX8z5H22yNSVbNmsXuVxjJh0mL1shBl4pZvpRaQgMahS?=
+ =?us-ascii?Q?+Mh3NOseQISWMhFcbach7bzvrgdjXLk0X5MlTBhPMeh0wHSVJI+1Wvl51H7e?=
+ =?us-ascii?Q?OkNjpPdAd+4j+YiKPanDNqc7o4PQg5lU5hfZS384nkxJBTTPtNQ/PqP1Akxy?=
+ =?us-ascii?Q?ATk/usMPQdciD5E3x4JA7H3rIRhKIrMOVoQZGEBme0JTLH7pDGWcR/dOGJ0q?=
+ =?us-ascii?Q?rWhp5BgUokosuVz4uET+26MaXU6Yr4kcRQ=3D=3D?=
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR17MB1226;6:ypNG4qHcFbKJGfJ3hbCRe2Oe/K0T4TDwGDf4UFyT+80s7qOgEP1n8bTKfviZf9u8qI23/jg+yjuo5gzLqugTIe85R3KR8kOjByB1rWULwn2kDTOwbIriGLRQSKKqKUZJeJr/quGjNA/wO1xiXhvScuXVnbxLdCc79041d5+MyKuPZQgsucjWiouCN1LT4fOgpE+qzRVi9m1T2Nj0xm90qvCFDJRh6NB4vmAMJybIyRx534UvjmQ7LP1evVfIJAbRMKtT8XM3x1WnnAm2b8hVU0xn5R/WgR9HZF/g/4UFAoqiTdXcRePoyD8U7K8RQsLUDXH+Z1x4ecJjNA+fZ6MEQgOtErnObolhYM41Wn6jX6GPhMJuEnvGZeUVqS0vMvSkIQtSncRwLe2rDNAMQSoWuiSQd6lrMJXpvsqYVbp/2Nnu1eFEbMWI4Y9WdjRb4gM1dACdojIFPc4WP/SlHdw6aamilUeh//8/IOBRey+xJ0onxltDCzls5AbHvMSXwNNT;5:ER1+JW12wnZJfgVEpTH9wGfs1QI7LrpTW97JgG1HKc9tYB1+CTO0Vyuj99HW0lsTYFcX150Gdl+WqQf+U9b4jaJSCObXSRZw4ESvBplHsr8lxK8Ntl7jYIahubQaARfru0xS1m+oTbneiFgbTtJ4FCtC8dE2eYB23XRJtXnjhDI=;7:lm8hdJx4J5tYL8cbJiYHsD+fSg5IF/JtHTqUa97d/j8N828AmzU9GwZmTT74sqzyhGUQ1Yy3+HCfjDKw1593r+B5BEUog1n4ysJMGPZvBpnxcH6qf+iEADmvyISZGid7N15q9TgO8IhBlR71iwOCFQ==
+SpamDiagnosticOutput: 1:6
+SpamDiagnosticMetadata: AWI+SPAM:6
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM5PR17MB1226
+X-EopAttribution-RoutedToQuarantineCount: 0
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: SN1NAM04FT015.eop-NAM04.prod.protection.outlook.com
+X-Microsoft-Exchange-Diagnostics: 1;SN1NAM04FT015;1:YVpyzsaozK5Kch9BPYUqvt8vJEiS8GyqphKCXFhuQJJaru420/glq8YcTTMNEU/66eVmLf5Ufyxt7qkdYHmLXIMiWvWbApvyvEn4EHV4Vz5U/uXq0R3E8m93XTGWC3us
+X-Microsoft-Exchange-Diagnostics: 1;SN1NAM04HT165;23:S7ZY8wQxS3nOetK0fy/prINsw6KXFWZnQJZasXfi9Ht5Ci0sLEqul1XHBD1rl5nROLE+m/tJqvl1JfmLoa0CWdL6BH7qAEoe63flBwrnkHCML9C87k9xAiR0v1qLD/hxz7CJRBjPjyvJOWBhktugIg==
+X-OriginatorOrg: armstrongceilings.onmicrosoft.com

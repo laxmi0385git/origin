@@ -1,0 +1,127 @@
+Received: from BN3NAM04FT041.eop-NAM04.prod.protection.outlook.com
+ (10.152.92.56) by BN3NAM04HT162.eop-NAM04.prod.protection.outlook.com
+ (10.152.93.113) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.735.16; Wed, 9
+ May 2018 16:07:07 +0000
+Received: from NAM02-BL2-obe.outbound.protection.outlook.com (207.46.163.79)
+ by BN3NAM04FT041.mail.protection.outlook.com (10.152.93.42) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.735.16 via
+ Frontend Transport; Wed, 9 May 2018 16:07:07 +0000
+Received: from DM5PR17MB1322.namprd17.prod.outlook.com (10.173.134.8) by
+ DM5PR17MB1322.namprd17.prod.outlook.com (10.173.134.8) with ShadowRedundancy
+ id 15.20.735.17; Wed, 9 May 2018 16:07:06 +0000
+Received: from MWHPR17MB1325.namprd17.prod.outlook.com (10.173.104.7) by
+ DM5PR17MB1322.namprd17.prod.outlook.com (10.173.134.8) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.735.17; Wed, 9 May 2018 16:05:34 +0000
+Received: from BN3NAM04FT005.eop-NAM04.prod.protection.outlook.com
+ (2a01:111:f400:7e4e::202) by BN6PR1701CA0022.outlook.office365.com
+ (2603:10b6:405:15::32) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id 15.20.755.16 via Frontend
+ Transport; Wed, 9 May 2018 16:05:34 +0000
+Authentication-Results: spf=pass (sender IP is 68.232.147.84)
+ smtp.mailfrom=ipaper.com; armstrongceilings.com; dkim=none (message not
+ signed) header.d=none;armstrongceilings.com; dmarc=none action=none
+ header.from=;
+Received-SPF: Pass (protection.outlook.com: domain of ipaper.com designates
+ 68.232.147.84 as permitted sender) receiver=protection.outlook.com;
+ client-ip=68.232.147.84; helo=esa2.ipaper.iphmx.com;
+Received: from esa2.ipaper.iphmx.com (68.232.147.84) by
+ BN3NAM04FT005.mail.protection.outlook.com (10.152.92.108) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.20.735.16 via Frontend Transport; Wed, 9 May 2018 16:05:33 +0000
+X-IronPort-AV: E=Sophos;i="5.49,382,1520917200"; 
+   d="pdf'?scan'208";a="143866350"
+Received: from unknown (HELO S02AE15EDGE02.ipaper.cedar) ([141.129.210.142])
+  by esa2.ipaper.iphmx.com with ESMTP/TLS/DHE-RSA-AES256-GCM-SHA384; 09 May 2018 11:05:30 -0500
+Received: from S02AE15D2M03.na.ipaper.com (164.103.168.42) by
+ S02AE15EDGE02.ipaper.cedar (141.129.201.142) with Microsoft SMTP Server (TLS)
+ id 15.0.1320.4; Wed, 9 May 2018 11:05:10 -0500
+Received: from S02AE15C05.na.ipaper.com (164.103.168.24) by
+ S02AE15D2M03.na.ipaper.com (164.103.168.42) with Microsoft SMTP Server (TLS)
+ id 15.0.1320.4; Wed, 9 May 2018 11:04:58 -0500
+Received: from S02ANOTESEXCH02.na.ipaper.com (164.103.74.121) by
+ S02AE15C05.na.ipaper.com (164.103.168.24) with Microsoft SMTP Server id
+ 15.0.1320.4 via Frontend Transport; Wed, 9 May 2018 11:04:58 -0500
+Received: from emea.ipaper.com ([10.40.20.176])
+          by srthnoteshub.emea.ipaper.com (Lotus Domino Release 8.5.1FP5)
+          with ESMTP id 2018050917045189-11950 ;
+          Wed, 9 May 2018 17:04:51 +0100 
+From: IPaperCHALON
+To: <cbez2@armstrongceilings.com>, <fcuinet@armstrongceilings.com>,
+	<anne.bourgeon@ipaper.com>, <pascalmauranne@gmail.com>,
+	<marie.serfasse@ipaper.com>
+CC: <marie.serfasse@ipaper.com>
+Subject: =?utf-8?b?Vi9Db25maXJtYXRpb24gZGUgY2RlICAgUE80NDUwNSBMSVYuIE5vdHJlIGNkZSAwNzE0NjA4IC8gQ2xpZW50IDM1NQ==?=
+Date: Wed, 9 May 2018 16:59:46 +0000
+X-MSMail-Priority: Normal
+X-Priority: 3 (Normal)
+X-Mailer: Mapping Mail
+MIME-Version: 1.0
+X-MIMETrack: Itemize by SMTP Server on EITCNotesHub/IPAPER(Release 8.5.1FP5|September 29, 2010) at
+ 05/09/2018 05:04:51 PM,
+	Serialize by Router on SWNotesExch02.ipaper.com/IPAPER(Release 7.0.3FP1|February
+ 24, 2008) at 05/09/2018 11:04:58 AM
+Message-ID: <OF859B8A04.E3757388-ON80258288.0058560A@ipaper.com>
+Content-Type: text/plain
+Content-Disposition: inline
+Return-Path: IPaperCHALON@ipaper.com
+Received-SPF: Fail (S02AE15EDGE02.ipaper.cedar: domain of  does not designate
+ 164.103.168.42 as permitted sender) receiver=S02AE15EDGE02.ipaper.cedar;
+ client-ip=164.103.168.42; helo=S02AE15D2M03.na.ipaper.com;
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 5b00abe1-105d-47d0-ab18-b84d5ea65f29:0
+X-Forefront-Antispam-Report: CIP:68.232.147.84;IPV:NLI;CTRY:US;EFV:NLI;SFV:SPM;SFS:(8046002)(2990300002)(438002)(199004)(189003)(4326008)(107886003)(450100002)(81166006)(6666003)(81156014)(305945005)(5660300001)(21480400003)(8676002)(50226002)(9686003)(1096003)(6286002)(33186001)(77096007)(5000100001)(53416004)(63266004)(4610100001)(14003)(33656002)(16586007)(110136005)(336012)(106466001)(36756003)(45126002)(2476003)(72206003)(59450400001)(84326002)(476003)(33964004)(6436002)(106002)(26005)(7696005)(126002)(486006)(42882007)(2201001)(81686011)(1557600005);DIR:INB;SFP:;SCL:6;SRVR:DM5PR17MB1322;H:MWHPR17MB1325.namprd17.prod.outlook.com;FPR:;SPF:Pass;LANG:fr;PTR:esa2.ipaper.iphmx.com;A:1;MX:1;CAT:SPM;
+X-Microsoft-Exchange-Diagnostics: 1;BN3NAM04FT005;1:x3CGqcOOLZYieYXiOcGe/sunWmNt5qsBMde4D+N/wEEGT3Tx8u5FVpNzimbs57qSvQa5bEZfjjVeMXMsp8/VxGJ+N1pi5VNOV5DzRWuzyOhP/DYGUGqRj1fiDhznVxhN
+X-MS-PublicTrafficType: Email
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(5600026)(4605076)(49563074)(1401150);SRVR:DM5PR17MB1322;
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR17MB1322;3:02RVYOrYzFTs/qSe1LZQbCNHQYbmRiaocT1DEFskPi/smDG+IWyfd6aPw0DcvrE+GusogvU9Fxh1qHJG56d7soNx04CO1d5WDhSMeMmlXwL2W5HAIrhDDko8QHQ8XFQfP7LPw/AnFB9Oj8mbOAziJgJDrrut9wMAgTUwEAtqYdNXDzqpoh9r4RBPhsQtaqNOmhwyOQNR3gEV+oNzqBkvdVY4+n/6UkHLA76VqVBdgyX0spHmTowSE9OVR/9shFBwuuU99EzHBgzd3CsLqgTqoIp+XY3itqC00gUdZDUWSjjAyZ99oP4wQtay3/mEjvvRVJBg8AidBHlzvnWnW+CQE4crTFoh6/DnbLNkaRCas4s=;25:YgSp1CoHUllVS8kbtkty19bwpWIDsRakita5M/0sQ7OMGxM7UKPUcXPKrarayxDTciQo+p81WFaUm6rs3arwZkwrE2bj7Lz7+ykhXryoib1095g1bR1MNNJaEslPodCepnntJLHasZSbFCM73RuGTWuR5ab2ru+ZFAgddNYgdiTHvhykSJyA1CuWgV86spFQbX4LZIZVT7Pn3gX4bwanUCHFeBVDZzpb+CWIc2B9dV4iPodOTKjQog628QwAvJiG6Im7k7CX3OTWlWGE0jRyBW2u9t8lq+veVKoxZKuH61nMGJQXQ2YLcN2NE469MSRqR45EVC9dRSBl1PBA4VnFbA==
+X-MS-TrafficTypeDiagnostic: DM5PR17MB1322:|BN3NAM04HT162:
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR17MB1322;31:/Ysx/OJbJWOIb+cJ8zaNX6woy/jEU/PbCnV+kK2o4iAz9gd/lp83PGjnwiFZA4DFwykP0jjNVrwZ2AtFAoxApYxOJ3YKdM2qYAm/yQJfZzsnHCeJApOI3P+NWj/ngPaTagRGV+1YFO8BkvdEaeaOqF7XWBkmiuTVBsHRrqnPKKocDkfySLfbmDFxsRCdSoqq64INdRFgt0vR/up1bI4g3fJ0GBEBvpc+5DTtit3czv0=;20:d0ImtzlfvlbktAQvOKEmqmgCekb7to73lh17Qe23gLYk6CCVPRD1KB/MxTqDPkE8SM/TQVxSDR3jEOV5XtakrUhGql9PHVpMxHjWsmQMcSD1q1PqltOcVUxcG9w7/uQ/kn/ulKLMSeJa+p5kqWcitzT7HwjKbZ9cKwsYW98agCtgILTr3sqHKyrNpf3e0fSOI0Q6zbe535M+lk9c9m0NwUT5OdjMcuk5YU4AT4tXdSeYo4tMbuo0CfnkzzL5S5EimIaBceV8gus4+xIynMQSrI+4LkxmwhQ+xZRJLgQLQjWjedzXOCKokDaIDbuh64als4mztPOX8IVFbjs2bs0N6crt1vmZakQsHZv2jObDigoEyzmxdl+OA/nldwMLNfEzrPivY6Dsl9dnxKcTcyG3iwMdVEZRfVG3wV+4B4GwSR9zHEOkrGI//th/2IgqDyswawTt+HqRjvHRPP2UvBoSw9QQLpD0i3i7uU4tJsIR4Rn5sYiSX+4fR3bhHT9XpN15
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(102415395)(12181511182)(2401047)(7630418)(8121501046)(7631346)(7632307)(7633261)(9101536074)(12181509095)(3002001)(93006095)(93004095)(3231254)(901025)(902075)(913088)(7045084)(944500087)(944510158)(944921075)(946801078)(946901078)(52103095)(52105095)(52106095)(52401190)(52601095)(52505095)(52406095)(52305095)(52206095)(10201501046)(1610001)(9300000083)(9301000104)(8301001075)(8301003183)(201708071742011);SRVR:DM5PR17MB1322;BCL:0;PCL:0;RULEID:;SRVR:DM5PR17MB1322;
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR17MB1322;4:cyze8PTq94cYNhiaBjLkZyYvXbH+TemYNGcHDsjvYZUIKiKldQobgvaJsGry6Dlpo9PKwNRVb6bbEJvAKVGdgn1fH3CRl51yKCVPuMSNvq8592wOO9qJxwgbgT8H3/dimdQAUJJy6i/NAsIWsmtFfG6gFEi6flapk/EDnXQuWHJheds7ai5YaOGzwlcqLzHIT2OisaT/KsxbJs0WccFA74YRvj75wRogUnifORNQDxhLnz0yNiSo6IeR011uYX6JLNmMDA7LjZ1GugAa8htpkw==
+X-Microsoft-Exchange-Diagnostics: =?utf-8?B?MTtETTVQUjE3TUIxMzIyOzIzOi85cFhackJhcDQwdkNsVGUrZkZPMWd5cE9N?=
+ =?utf-8?B?TVFpNVRMaitYenNlb0lOOEtGOUxxS2hPU2t0TGZ0ZXR0Zis4blh0ZGxOeitN?=
+ =?utf-8?B?cGpDUWhYbXJadFJzTDBvWk4vU2hXczNqV05ObEw5Y0RkY0d0d0diZ3RJL2NZ?=
+ =?utf-8?B?eXQ2ZHpmU2RYZ0FLSVVwL09xMWhyZVNYWXNRZkNOalJUOWQ1ZU8zd3VlU2Qv?=
+ =?utf-8?B?Mk8vQWsxbFJkc1FlMjF6WXRWbVNOOTNJNG5UQWZKaE0rbFo3ZlhOYlJKbTBH?=
+ =?utf-8?B?ZlJJZVlZOTUrd1JNelNxUC9hQWVpUlVTcDlkU1NtSnpqRHMrMUs2M1FZYjdT?=
+ =?utf-8?B?cWk5U1VTdFNIRlVDZEwraTZvcFJ5Ukt4NVR2YU16Z1JjSU1rZWRNNnR2WHdN?=
+ =?utf-8?B?UG45N2VFZjZCN1lHNHNSLzIxdjR0aFpZQ3EzeWVyaFJtZ003MHloWWtWd01D?=
+ =?utf-8?B?OGlxMVgyZ0ordlV3cUZrODkwMHJMOEVmOGw3c0RFck9KRkVlNDY4ZkJUVm5P?=
+ =?utf-8?B?NStNTXczUEozcnN5UDhqSVFVZHBlcHpHcGl6SEQxdEZIY0ZXZzM1dGxVUnVK?=
+ =?utf-8?B?UzlsOENKVTJmd1RFb2MxNFhrVWJKeTN0N3ZwMjRFcGY3VWRPUG1wZUY2R003?=
+ =?utf-8?B?UHRhd055M0VPMm8zL3RiZmMyMVk0V0RrNlJ6Si94ZVg1dWdsdlJIUzRHb3p2?=
+ =?utf-8?B?d084dlRLdVZ2N2dWcGIxelRYRUFmcEJCTDRxdGUraFlzQXpqcDNyVDltZnp0?=
+ =?utf-8?B?WExTaTFXUHpsWFV5Ung3d0RlOGRnckh1Z1dCNWU5dmVOY0p3VENIRHRKcWxV?=
+ =?utf-8?B?ZHZkNTBDeURQcmRuaGN3ME0rR2FEZDhscXBiUng1eGRHZjhQaGlYWEN4QnJq?=
+ =?utf-8?B?ZHVLeExEWUpHUElpc051R0p1RmFFRlEyKzluVllWNWpIVS81SzdTTXZpSkdZ?=
+ =?utf-8?B?cnU2TjZnTWpod210QkNJMkYxZWN3TTVSSFloemtZa0tOV285bnBoQ2RXNERx?=
+ =?utf-8?B?aGc5Rk1UWjc4d1BlakVHSVd4N25VdjFEdlMvQThKRDQxalVBN2VlZmd2cVI4?=
+ =?utf-8?B?UlUrNGE3TWdhTldockU4cUdobkhGZWxjYThxeXRVRDFDaTZBOFRqRm9tWHk5?=
+ =?utf-8?B?TFFCVzgyZTdYbGhWUXVsVWhxRUFTb3BrYS9qTndkYlRRZmkxaTltTytVVWov?=
+ =?utf-8?B?SCtiTnB0SEFXM1ZrQWRWRzZZcnJtWEg3SU50OGNiU2dhYVE4Rm1Jczk2TEw5?=
+ =?utf-8?B?dzFpNllJblNTb2h1TnVENThvd0p1TEx3bE5pT1Q5TTU3M3RzTGl4bS93U2RY?=
+ =?utf-8?B?K0ZzY2ZZRXpwdEUzeXB3QkRsZzdoOWdHaDhrbDc3aVFUTUhkZkc0eUVYMU9p?=
+ =?utf-8?B?SUJ2TzJ6OWphNDdrN3NIaHovajRuMDZHY1ZMS0xuWWI2dWc5M0Z6WDcxcWdQ?=
+ =?utf-8?B?QXlUakJFT0t2OUxxR2ZzelVIRW16ZnNQSnFqcitUYWY2a1JyUE5hUkgyWjBr?=
+ =?utf-8?B?Z2xMOEp2dWx0dkZCQmFBZ3J5cGtGbzRNdCtiK2tScWpGNmtRcktZUHlVcTVw?=
+ =?utf-8?Q?Ry29eTWF9pE42cp5qpmEepbh0Un02CYc/jOzRwjlTqcw=3D?=
+X-Microsoft-Antispam-Message-Info: 963FAzdopZvbDrH5rVTTjmvrtBgPbOH+xnxWnnznkrgHKXzY65GWrXFR5UrmkEhYhvMWLMdaWRVz+rF076hFq1SQT6vIz4KoiyX06Dq4RB0YR9WY/ZInun4o6u2Qr+Om7q8P73H2/qkO0JtAXf7wd/KYX0lhi1tZMICfgyYComRwnn2YRj74AcvAgKLaBJjn90VJVMWko3y4apgCKQJUSBmfhUF7APnqVjSgsreu83Lk44/4aRLTQiqsV4NNzqROPtcuwoJyZF4WvyjH3to6gqLB+M+C64Wrx3l0v0gn8tvhqmrKZEseGpE0TC9oqRgZ/LjYoYsGBbmdc0t5QF/6IdVIs7TjXADfqlpygHSxjMhmjKdCUAECq0rqOuKemU00lTDFRgAtxRCgPuVy4lnDr/1oW2Z6GYbfXtVXqDhb+eRJILFq/v1ItsTiI0QDomz4Szk1FvNgR1qYo3qmCBPcyTRD3jmOWHLGF5MgIsvnjM6LrK0O/YRGE+OrqHH/q9H7PHYLBoUGMtL3Hk4e7RMJXcxucrDbwmMJ5n1376wO5wxxfsqaeb919E9HODBPFcxXLzcTI68jX2GrTYehVYwuoLJELkgFVl64RCTvi/mSzLBMn4TmvSAo4KV9u+TgbwlaBBanHYgzt0Kbw3ENbDA2KQ==
+X-Original-X-Forefront-Antispam-Report: CIP:68.232.147.84;IPV:NLI;CTRY:US;EFV:NLI;SFV:SPM;SFS:(8046002)(2990300002)(438002)(199004)(189003)(4326008)(107886003)(450100002)(81166006)(6666003)(81156014)(305945005)(5660300001)(21480400003)(8676002)(50226002)(9686003)(1096003)(6286002)(33186001)(77096007)(5000100001)(53416004)(63266004)(4610100001)(14003)(33656002)(16586007)(110136005)(336012)(106466001)(36756003)(45126002)(2476003)(72206003)(59450400001)(84326002)(476003)(33964004)(6436002)(106002)(26005)(7696005)(126002)(486006)(42882007)(2201001)(81686011)(1557600005);DIR:INB;SFP:;SCL:6;SRVR:DM5PR17MB1322;H:MWHPR17MB1325.namprd17.prod.outlook.com;FPR:;SPF:Pass;LANG:fr;PTR:esa2.ipaper.iphmx.com;A:1;MX:1;
+X-Original-X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(5600026)(4605076)(49563074)(1401150);SRVR:DM5PR17MB1322;
+X-Original-X-MS-Exchange-Organization-Network-Message-Id: 68bfa0ef-1079-40d9-3314-08d5b5c6b254
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR17MB1322;6:WbKqbyYe9L74Ss0SvXrPulAFY5j+h/nJx4XDUhzXbwEWH1pTIKG5uH+nOcfBAn74ZbESe97nPsFji6ZViHa+OW3NkBTtd68NTouKjcuceBbnSbnU4STQEMnJITanskBgqjeQeAlXDj/cijq/ffFkEaEPJWygX0UsznXR6lysq1p6QRonu1OoCR4xu+WjexRH1ig9dnHEkdWn+kcc2Cu3/wa1I893GJ5Ef3j1AJ9qgouVK18npFW387C5P9NSnlur0BBLKUy8K4q0H+6bqYSDw2vwvvMBYJFm8L4R4xBZF/l365tTmsBfMgxMHQLq6VJ0Ix6EN8Xupp7MzbHEIrEMfMu9KuGDKetAOEbDxZVqeZY2jPeimnKLCRJ1j84oI07oB1hXFvMlAidlYSYEEOwMyw1LxGPL5xVFIYjjbusACAed88zXsaTEZEtJdqErHkmtOpYPwF+Rx971g/LeT4gLJ3RrVOk+BRPjuiz0ekTQIoH1CDZ0DscuBOvaHh7xyjGKinKWv7zfUOT4pbH0F86IGEk7szz6mR1Y6Wj1vd4vtOU=;5:glKXydwkvA6PZEfvjBYahekHR1Gu3JDwT0f+R3rdCzM3IqPGmQ+XI9jPW7e5D7Z2YfdWrQUqxDaQdsLI/Eyjox4DtIRQm7vAmN1xuyJ4DL4QW2Ql2Ck9Mhtz7caq06gGf968fD4NhwcZDFDK+1v5YT1fICUwS7cl6vDFLaP0sV4=;24:1BWh92eCWBrkg3TbFpNhpDWtF+KUZDGwXmnl+quVgArOFArCh6bbR8lFF4Wvv/uRRoy7yGAo5p2WRqAKIzaozw==
+SpamDiagnosticOutput: 1:22
+SpamDiagnosticMetadata: AWI+SPAM
+X-Microsoft-Exchange-Diagnostics: 1;DM5PR17MB1322;7:KzhgJbSTbPqwiqiJg1Ke0ix+dmhalA82jjZBhHmxh77TdMwJuFVkjF8bfKDqk7//J9RsAkFY4WIRya47wyJOYlwVQqpZfSi1zAlGoxz0eEwpZrVi4yjwnRniaQUNHGuQzeGpevh432ZajcIXI1anYCT9WeBebDDQgOFIdwRAMkh/L2Pqj9ZqZbu5qN7nVSj2ob31zxZ7zPNsemuQIi4r8Y2jGu1EmqtK63+rK3qXQmTIuBRMherMyukI50u5sTHzp8l7HFFfGS1zO/E90IMvzGROgwDm6i6w2VPFmGHu7Tw=
+X-MS-Office365-Filtering-Correlation-Id: 68bfa0ef-1079-40d9-3314-08d5b5c6b254
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM5PR17MB1322
+X-EopAttribution-RoutedToQuarantineCount: 0
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: BN3NAM04FT041.eop-NAM04.prod.protection.outlook.com
+X-Microsoft-Exchange-Diagnostics: 1;BN3NAM04FT041;1:KFOwtJ1QFGUPritErPkpac68a15BFS7/rUYFSjsF8htIQQHEF1R7RPwZyav8SXENsMF4LcHumhttnHB2OnI3zItGA86f2mq/wCBHZwtn0VTJ46mVSw23x9QNkj382g92
+X-Microsoft-Exchange-Diagnostics: 1;BN3NAM04HT162;23:A3rXc0FY7snMCuiqZZeNHuuKfzJYC0iqyjGbzbcNh+MqPKIkYrwylEfTBdWTDvX+LmC8qjCvCHK1RfiNqsMoGHLwqQYl6rKWiYEncB2rnsHa43CAhdMvqnNTMZM+k21nSmgu78dV0K7N2HENmQplGQ==
+X-OriginatorOrg: armstrongceilings.onmicrosoft.com
+
